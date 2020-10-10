@@ -18,7 +18,7 @@ void setup()
     }
         fill (255,255,255);
     text("Sum:" + sum, 105,270);
-      //your code here
+      
   }
   
   void mousePressed()
